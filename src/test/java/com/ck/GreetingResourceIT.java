@@ -1,4 +1,4 @@
-package org.ck;
+package com.ck;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
